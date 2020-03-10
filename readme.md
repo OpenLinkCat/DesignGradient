@@ -1,4 +1,4 @@
-###Design Gradient Effect
+### Design Gradient Effect
 
 Life in black and white is boring. Add some color to your day with these cool color gradient wallpapers!
 
