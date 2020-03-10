@@ -13,3 +13,5 @@ Key Features:
 Pick a favorite color palate to match your personality or lifestyle, or change your wallpaper often to always have colors that fit your mood. Try it for yourself and find the colors that you love most!
 
 If you encounter any problems while using our products, please contact us. Email address: edith.wetter.gs@gmail.com
+
+![Alt text](图片链接 "https://github.com/OpenLinkCat/DesignGradient/blob/master/icon-5.png")
